@@ -37,7 +37,8 @@
 button{
     border-radius: 50px;
     margin-top: -5px;
-    background-color: rgb(207, 218, 223);    
+    background-color: rgb(207, 218, 223); 
+    padding:2px;
 }
 button:hover{
     background-color: rgb(69, 151, 189);
